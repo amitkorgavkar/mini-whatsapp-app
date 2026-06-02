@@ -21,7 +21,6 @@ A WhatsApp-style chat web application built with **Node.js**, **Express.js**, **
 - Delete a chat
 - Custom error handling with `ExpressError` class
 - Async error wrapper for clean route handlers
-- Sample data seeding with `init.js`
 
 ## Project Structure
 
